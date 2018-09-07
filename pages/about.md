@@ -10,12 +10,12 @@ EM Mobility project description
 
 ### Research Team
 
-Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University
-Luca Scholz, Mellon Postdoctoral Fellow and Lecturer, Center for Spatial and Textual Analysis and Department of History, Stanford University
-Katherine McDonough, Academic Technology Specialist, Department of History & Center for Interdisciplinary Digital Research, Stanford University Libraries
-Rachel Midura, PhD candidate, Department of History, Stanford University
-Suzanne Sutherland, Assistant Professor of History, Middle Tennessee State University
-Iva Lelková, Academy of Sciences of the Czech Republic
+##### Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University
+##### Luca Scholz, Mellon Postdoctoral Fellow and Lecturer, Center for Spatial and Textual Analysis and Department of History, Stanford University
+##### Katherine McDonough, Academic Technology Specialist, Department of History & Center for Interdisciplinary Digital Research, Stanford University Libraries
+##### Rachel Midura, PhD candidate, Department of History, Stanford University
+##### Suzanne Sutherland, Assistant Professor of History, Middle Tennessee State University
+##### Iva Lelková, Academy of Sciences of the Czech Republic
 
 
 ### Project Summary
