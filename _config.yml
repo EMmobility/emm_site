@@ -16,8 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Early Modern Mobility"
 description:	       "Research Group at Stanford University"
-author:              
-  twitter:           "khetiwe24"
+author:              "KM"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
