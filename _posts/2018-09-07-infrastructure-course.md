@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "History of Infrastructure Course Winter 2019"
