@@ -6,7 +6,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Bibliography', folder: 'pages', file: 'bibliography.html'}
+- {name: 'Bibliography', folder: '_posts', file: 'bibliography.md'}
 # - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 # - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
