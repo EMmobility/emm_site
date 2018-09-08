@@ -3,7 +3,7 @@ layout: page
 title: About the Project
 ---
 
-![piranesi header image](https://github.com/EMmobility/project/blob/gh-pages/assets/img/piranesi.png)
+![piranesi header image](/assets/img/piranesi.png)
 
 ## Early Modern Mobility
 ## Knowledge, Communication, And Transportation, 1500-1800
