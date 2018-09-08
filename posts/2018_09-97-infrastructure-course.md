@@ -4,7 +4,6 @@ layout: post
 title: "History of Infrastructure Course Winter 2019"
 author: "Katherine McDonough"
 categories: related
-tags: []
 image: arctic-4.jpg
 ---
 
@@ -14,7 +13,7 @@ Winter Quarter 2019
 
 HISTORY 208J/308J
 
-[Where Do Highways Come From? The History of Infrastructure](http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=infrastructure+mcdonough&collapse=)
+## [Where Do Highways Come From? The History of Infrastructure](http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=infrastructure+mcdonough&collapse=)
 
 Taught by Katherine McDonough
 
