@@ -1,6 +1,6 @@
 ---
-layout: misc
-title: About
+layout: page
+title: About the Project
 ---
 
 # Early Modern Mobility
