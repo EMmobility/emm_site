@@ -3,7 +3,7 @@ layout: post
 title: "History of Infrastructure Course Winter 2019"
 author: "Katherine McDonough"
 categories: related
-image: arctic-4.jpg
+image: piranesi.png
 ---
 
 ### Stanford University
