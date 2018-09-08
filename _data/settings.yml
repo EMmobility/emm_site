@@ -7,7 +7,7 @@ google-ID: ''
 
 menu:
 - {name: 'Bibliography', folder: 'pages', file: 'bibliography.html'}
-# - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
+- {name: 'Related Work and Courses', folder: 'pages', file: 'related.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 # - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
