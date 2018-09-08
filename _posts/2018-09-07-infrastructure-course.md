@@ -8,9 +8,7 @@ image: rennes_35.jpg
 
 ### Stanford University
 
-### Winter Quarter 2019
-
-### HISTORY 208J/308J
+##### HISTORY 208J/308J
 
 #### [Where Do Highways Come From? The History of Infrastructure](http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=infrastructure+mcdonough&collapse=)
 
