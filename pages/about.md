@@ -3,12 +3,14 @@ layout: page
 title: About the Project
 ---
 
+[piranesi header image](https://github.com/EMmobility/project/blob/gh-pages/assets/img/piranesi.png)
+
 ## Early Modern Mobility
 ## Knowledge, Communication, And Transportation, 1500-1800
 
 
 
-## Research Team
+### Research Team
 
 - Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University
 - Luca Scholz, Mellon Postdoctoral Fellow and Lecturer, Center for Spatial and Textual Analysis and Department of History, Stanford University
