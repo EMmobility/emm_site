@@ -8,7 +8,7 @@ title: About the Project
 ## Early Modern Mobility
 ## Knowledge, Communication, And Transportation, 1500-1800
 
-
+---
 
 ### Research Team
 
@@ -19,6 +19,7 @@ title: About the Project
 - Suzanne Sutherland, Assistant Professor of History, Middle Tennessee State University
 - Iva Lelková, Academy of Sciences of the Czech Republic
 
+---
 
 ## Project Summary
 
