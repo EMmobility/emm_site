@@ -10,14 +10,10 @@ title: About the Project
 
 ### Research Team
 
-<<<<<<< HEAD
-![findlen photo](assets/img/findlen.jpg?raw=true "Paula Findlen")
-![mcdonough photo](assets/img/mcdonough.jpg?raw=true "Katie McDonough")
-=======
-![findlen photo](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true "Paula Findlen")
->>>>>>> parent of b7078c4... assets
+![findlen photo](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true)
 - Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University
 - Iva Lelková, Academy of Sciences of the Czech Republic
+![mcdonough photo](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/mcdonough.jpg?raw=true)
 - Katie McDonough, Academic Technology Specialist, Department of History & Center for Interdisciplinary Digital Research, Stanford University Libraries
 - Rachel Midura, PhD candidate, Department of History, Stanford University
 - Luca Scholz, Mellon Postdoctoral Fellow and Lecturer, Center for Spatial and Textual Analysis and Department of History, Stanford University
