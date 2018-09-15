@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About the Project
+image: piranesi.png
 ---
-
-![piranesi header image](/assets/img/piranesi.png)
 
 ## Early Modern Mobility
 ### Knowledge, Communication, And Transportation, 1500-1800
@@ -36,4 +35,3 @@ Early modern postmasters wielded great power and authority. They enjoyed multi-g
     </div>
   </a>
 {% endfor %}
-
