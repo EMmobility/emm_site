@@ -10,8 +10,12 @@ title: About the Project
 
 ### Research Team
 
+<<<<<<< HEAD
 ![findlen photo](assets/img/findlen.jpg?raw=true "Paula Findlen")
 ![mcdonough photo](assets/img/mcdonough.jpg?raw=true "Katie McDonough")
+=======
+![findlen photo](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true "Paula Findlen")
+>>>>>>> parent of b7078c4... assets
 - Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University
 - Iva Lelková, Academy of Sciences of the Czech Republic
 - Katie McDonough, Academic Technology Specialist, Department of History & Center for Interdisciplinary Digital Research, Stanford University Libraries
