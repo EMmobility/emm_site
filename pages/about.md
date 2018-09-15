@@ -11,6 +11,7 @@ image: piranesi.png
 
 ### Research Team
 
+![Paula Findlen image](/assets/img/piranesi.png =200x200)
 - Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University
 - Iva Lelková, Academy of Sciences of the Czech Republic
 - Katie McDonough, Academic Technology Specialist, Department of History & Center for Interdisciplinary Digital Research, Stanford University Libraries
