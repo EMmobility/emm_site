@@ -2,9 +2,11 @@
 layout: page
 title: About the Project
 ---
+![albano photo](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/albano_roads.png?raw=true)
 
 ## Early Modern Mobility
 ### Knowledge, Communication, And Transportation, 1500-1800
+
 
 ---
 
