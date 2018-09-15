@@ -2,7 +2,7 @@
 layout: page
 title: About the Project
 ---
-<p align="center">
+<p align="left">
   <img src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/albano_roads.png?raw=true"/>
 </p>
 ## Early Modern Mobility
@@ -12,8 +12,11 @@ title: About the Project
 ---
 
 ### Research Team
-
-![findlen photo](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true){:height="100" width="100"} Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University
+Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University
+<p align="right">
+  <img height="100" width="100"src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true />
+</p>
+ 
 Iva Lelková, Academy of Sciences of the Czech Republic
 ![mcdonough photo](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/mcdonough.JPG?raw=true){:height="100" width="100"} Katie McDonough, Academic Technology Specialist, Department of History & Center for Interdisciplinary Digital Research, Stanford University Libraries
 ![midura photo](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/midura.jpg?raw=true){:height="100" width="100"} Rachel Midura, PhD candidate, Department of History, Stanford University
