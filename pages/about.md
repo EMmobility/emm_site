@@ -10,7 +10,7 @@ title: About the Project
 
 ### Research Team
 
-![findlen photo](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true)
+![findlen photo](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true, width="100")
 - Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University
 - Iva Lelková, Academy of Sciences of the Czech Republic
 ![mcdonough photo](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/mcdonough.jpg?raw=true)
