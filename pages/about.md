@@ -10,7 +10,7 @@ title: About the Project
 
 ### Research Team
 
-![Paula Findlen image]("/assets/img/findlen.jpg" ="200x200")
+<img src="/assets/img/findlen.jpg" width="200">
 - Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University
 - Iva Lelková, Academy of Sciences of the Czech Republic
 - Katie McDonough, Academic Technology Specialist, Department of History & Center for Interdisciplinary Digital Research, Stanford University Libraries
