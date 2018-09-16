@@ -3,7 +3,7 @@ layout: post
 title: Project Description
 author: "Katherine McDonough"
 categories: related
-image: albano_detail
+image: albano_detail.png
 ---
 
 ## Project Summary
