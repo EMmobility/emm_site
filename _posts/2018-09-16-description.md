@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Project Description
-author: "Katherine McDonough"
 categories: related
 image: albano_detail.png
 ---
 
-## Project Summary
 ### Early Modern Mobility: Knowledge, Communication, And Transportation, 1500-1800
 
 
