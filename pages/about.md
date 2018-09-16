@@ -11,9 +11,20 @@ title: About the Project
 ---
 
 ### Research Team
-| <div class="pull-left"><img width="75" height="75" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true"></div> | Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University |
-|  | Iva Lelková, Academy of Sciences of the Czech Republic  |
-| <div class="pull-left"><img width="75" height="75" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/mcdonough.JPG?raw=true"></div> | Katie McDonough, Academic Technology Specialist, Department of History & Center for Interdisciplinary Digital Research, Stanford University Libraries, Stanford University |  
+| ![](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true) | Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University |
+
+
+|  | Iva Lelková, Academy of Sciences of the Czech Republic |
+
+
+
+<div class="pull-left"><img width="75" height="75" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true"></div> Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University  
+
+
+Iva Lelková, Academy of Sciences of the Czech Republic  
+
+
+<div class="pull-left"><img width="75" height="75" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/mcdonough.JPG?raw=true"></div> Katie McDonough, Academic Technology Specialist, Department of History & Center for Interdisciplinary Digital Research, Stanford University Libraries, Stanford University   
 
 
 <div class="pull-left"><img width="75" height="75" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/midura.jpg?raw=true"></div> Rachel Midura, PhD candidate, Department of History, Stanford University    
