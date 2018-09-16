@@ -3,7 +3,7 @@ layout: page
 title:
 ---
 
-![albano roads](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/albano_detail.png?raw=true){:width="90%"}
+![albano roads](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/albano_detail.png?raw=true){:width="1024px"}
 ## About
 
 
