@@ -11,6 +11,7 @@ title: About the Project
 ---
 
 ### Research Team
+
 | ![](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true) | Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University |
 
 
