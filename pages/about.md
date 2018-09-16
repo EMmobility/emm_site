@@ -11,7 +11,7 @@ title: About the Project
 ---
 
 ### Research Team
-Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University <div class="pull-left"><img width="50" height="50" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true"></div>
+<div class="pull-left"><img width="50" height="50" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true"></div> Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University
 ---
 Iva Lelková, Academy of Sciences of the Czech Republic
 ---
