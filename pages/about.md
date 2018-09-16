@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Project
+title:
 ---
 
 ![albano roads](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/albano_roads.png?raw=true)
