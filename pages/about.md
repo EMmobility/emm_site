@@ -11,17 +11,17 @@ title: About the Project
 ---
 
 ### Research Team
-- Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University <img align="left" width="100" height="100" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true">
-
-- Iva Lelková, Academy of Sciences of the Czech Republic
-
-- Katie McDonough, Academic Technology Specialist, Department of History & Center for Interdisciplinary Digital Research, Stanford University Libraries <img align="left" width="100" height="100" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/mcdonough.JPG?raw=true">
-
-- Rachel Midura, PhD candidate, Department of History, Stanford University <img align="left" width="100" height="100" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/midura.jpg?raw=true">
-
-- Luca Scholz, Mellon Postdoctoral Fellow and Lecturer, Center for Spatial and Textual Analysis and Department of History, Stanford University <img align="left" width="100" height="100" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/scholz.jpg?raw=true">
-
-- Suzanne Sutherland, Assistant Professor of History, Middle Tennessee State University <img align="left" width="100" height="100" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/sutherland.JPG?raw=true">
+Paula Findlen, Ubaldo Pierotti Professor of Italian History, Stanford University <img align="left" width="50" height="50" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/findlen.jpg?raw=true">
+---
+Iva Lelková, Academy of Sciences of the Czech Republic
+---
+Katie McDonough, Academic Technology Specialist, Department of History & Center for Interdisciplinary Digital Research, Stanford University Libraries <img align="left" width="50" height="50" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/mcdonough.JPG?raw=true">
+---
+Rachel Midura, PhD candidate, Department of History, Stanford University <img align="left" width="50" height="50" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/midura.jpg?raw=true">
+---
+Luca Scholz, Mellon Postdoctoral Fellow and Lecturer, Center for Spatial and Textual Analysis and Department of History, Stanford University <img align="left" width="50" height="50" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/scholz.jpg?raw=true">
+---
+Suzanne Sutherland, Assistant Professor of History, Middle Tennessee State University <img align="left" width="50" height="50" src="https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/sutherland.JPG?raw=true">
 
 ---
 
