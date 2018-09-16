@@ -31,7 +31,7 @@ scholar:
   sort_by: none
   order: ascending
 
-  source: ./pages
+  source: ./_bibliography
   bibliography: early_modern_mobility.bib
   bibliography_template: "{{reference}}"
 
