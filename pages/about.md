@@ -3,7 +3,7 @@ layout: page
 title:
 ---
 
-![albano roads](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/albano_roads.png?raw=true)
+![albano roads](https://github.com/EMmobility/emm_site/blob/gh-pages/assets/img/albano_detail.png?raw=true)
 ## Early Modern Mobility
 ### Knowledge, Communication, And Transportation, 1500-1800
 
