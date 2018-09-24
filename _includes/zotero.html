@@ -1,0 +1,45 @@
+<html>
+<head>
+	<style>
+		#bibliography ul li span {
+			text-decoration: none;
+			padding: 2px;
+			display: block;
+		}
+	</style>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script language="javascript">
+		url = 'https://api.zotero.org/groups/2223489/items?v=3&format=json&include=citation,data&style=chicago-fullnote-bibliography-16th-edition';
+		$.ajax({
+		dataType: "json",
+		beforeSend: function(){
+			$('.loader').show()
+		},
+		complete: function(){
+			$('.loader').hide();
+		},
+		url: url
+		}).done(function(data){
+			$.each(data, function(i, item){
+				$("#bibliography ul").append("<li>" + item.citation + "</li>");
+			});
+		});
+
+	</script>
+</head>
+
+<body>
+
+<div class="loader">
+   <center>
+      Loading...
+   </center>
+</div>
+
+<div id="bibliography">
+<h3>Bibliography</h3>
+<ul></ul>
+</div>
+
+</body>
+</html>
