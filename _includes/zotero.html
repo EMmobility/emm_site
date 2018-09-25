@@ -9,22 +9,31 @@
 	</style>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script language="javascript">
-		url = 'https://api.zotero.org/groups/2223489/items?v=3&format=json&include=citation,data&style=chicago-fullnote-bibliography-16th-edition';
+		var key = "2223489"
+		var col_url = "https://api.zotero.org/groups/"+ key +"/collections/top?v=3&format=json"
+			
 		$.ajax({
-		dataType: "json",
-		beforeSend: function(){
-			$('.loader').show()
-		},
-		complete: function(){
-			$('.loader').hide();
-		},
-		url: url
+			dataType: "json",
+			beforeSend: function(){
+				$('.loader').show()
+			},
+			complete: function(){
+				$('.loader').hide();
+			},
+			url: col_url
 		}).done(function(data){
-			$.each(data, function(i, item){
-				$("#bibliography ul").append("<li>" + item.citation + "</li>");
+			$.each(data, function(i, collection){			
+				$("#bibliography").append("<ul id='col_"+ collection.key +"'><h3>" + collection.data.name + "</h3></li>");
+				$.ajax({
+					dataType: "json",
+					url: "https://api.zotero.org/groups/"+ key +"/collections/"+ collection.key +"/items?v=3&format=json&include=citation,data&style=chicago-fullnote-bibliography-16th-edition"
+				}).done(function(data){
+					$.each(data, function(j, item){
+						$("#col_"+ collection.key).append("<li id='item_"+ item.key +"'>" + item.citation + "</li>");
+					});
+				});				
 			});
-		});
-
+		});		
 	</script>
 </head>
 
@@ -37,8 +46,6 @@
 </div>
 
 <div id="bibliography">
-<h3>Bibliography</h3>
-<ul></ul>
 </div>
 
 </body>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Bibliography
 ---
 
 {% include zotero.html %}
