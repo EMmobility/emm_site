@@ -2,7 +2,7 @@
 layout: post
 title: Project Description
 categories: related
-image: meridienne.png
+image: meridienne.jpg
 ---
 
 ### Early Modern Mobility: Knowledge, Communication, And Transportation, 1500-1800
