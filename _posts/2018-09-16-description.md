@@ -2,7 +2,7 @@
 layout: post
 title: Project Description
 categories: related
-image: cassini_relation2.jpg
+image: cassini_relation2.png
 ---
 
 ### Early Modern Mobility: Knowledge, Communication, And Transportation, 1500-1800
